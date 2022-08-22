@@ -1,7 +1,4 @@
-# Hi! I am Nishaya! 🙋🏽‍♀️
-
-
-#### Currently embodying the role of a Full Stack Developer student at Nashville Software School. 
+<image src="./banner-img.png" />
 
 ### A little about me:
 
@@ -56,4 +53,3 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-raj/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nishayaraj)
-
