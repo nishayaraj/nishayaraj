@@ -2,7 +2,7 @@
 
 ### A little about me:
 
-- 🔭 I’m currently working on Yarn Momento - A comprehensive app for short story readers and writers! Updates coming soon!
+- 🔭 I’m currently working on Yarn Momento - A comprehensive app for public short stories to flaunt your social creative side and a personal journal for your private side! Updates coming soon!
 - 🌱 I’m currently learning React and Next.js.
 - 💬 Ask me about any of my projects here on Github
 - 📫 How to reach me: nishayaraj@gmail.com & LinkedIn
