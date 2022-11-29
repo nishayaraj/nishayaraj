@@ -2,8 +2,7 @@
 
 ### A little about me:
 
-- 🔭 I’m currently working on Yarn Momento - A comprehensive app for public short stories to flaunt your social creative side and a personal journal for your private side! Updates coming soon!
-- 🌱 I’m currently learning React and Next.js.
+- 🌱 I’m currently learning Python, Django and SQL.
 - 💬 Ask me about any of my projects here on Github
 - 📫 How to reach me: nishayaraj@gmail.com & LinkedIn
 - ⚡ Fun fact: I have been a Psychology Professor in India, a Residential Cousellor in Canada and going to be a Software Engineer in the US. One role for each country! 📚
