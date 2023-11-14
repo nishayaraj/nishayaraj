@@ -2,11 +2,10 @@
 
 ### A little about me:
 
-- 🌱 I’m currently learning Docker and Terraform.
 - 💬 Ask me about any of my projects here on Github
 - 📫 How to reach me: nishayaraj@gmail.com & LinkedIn
 - ⚡ Fun fact: I have been a Psychology Professor in India, a Residential Cousellor in Canada and going to be a Software Engineer in the US. One role for each country! 📚
- - 😄 Pronouns: She/Her
+
 
 <p align="center">
 
